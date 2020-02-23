@@ -1,0 +1,64 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 1390px 650px;
+    background-attachment: scroll;
+    background-image: url("doctorrp.jpg");
+    box-shadow: 300px 100px 50px 150px rgba(0,0,0,0.15);
+}
+#1st{
+     text-align:  left;
+     background-color: lightgray;
+     width: 550px;
+     height:30px;
+    
+    /* border: 35px solid lightgrey*/
+     border-width : 50px 25px 100px 25px;
+     border-color : darkgrey; 
+     border-style : solid;
+     border-radius: 5px;
+     padding :2px ;
+	 margin : 200px 0px 0px 300px;
+}
+
+#name{
+     text-align:  left;
+     background-color: lightgrey;
+     width: 550px;
+     height:30px;
+    
+    /* border: 35px solid lightgrey*/
+     border-width : 0px 25px 10px 25px;
+     border-color : darkgrey; 
+     border-style : solid;
+     border-radius: 3px;
+     padding :2px ;
+	 margin : 0px 0px 0px 300px;
+    
+}
+#text1{
+     text-align:  center;
+     background-color:darkgrey;
+     width: 550px;
+     height:50px;
+    
+     border-width : 15px 25px 20px 25px;
+     border-color : darkgrey; 
+     border-style : solid;
+     border-radius: 5px;
+     padding :2px ;
+	 margin : 100px 0px 0px 300px;
+}
+#submitbtn{
+     text-align:  center;
+     background-color:darkgreen;
+     width: 550px;
+     height:50px;
+    
+     border-width : 0px 0px 0px 0px;
+     border-color : darkgrey; 
+     border-style : solid;
+     border-radius: 5px;
+     padding :2px ;
+	 margin : 0px 10px 30px 320px;
+    
+}
